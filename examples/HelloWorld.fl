@@ -1,0 +1,7 @@
+// HelloWorld.fl
+
+function main() {
+    print("Hello, World!");
+}
+
+main();
